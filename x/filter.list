@@ -3,8 +3,8 @@ host,app-valley.vip,reject
 host,api-v5.cercube.com,reject
 # apple
 host,ocsp.apple.com,reject
-#gate.io
+# gate.io
 host,ws-ios.exapi.io,direct
 host-keyword,gate,direct
-#zhihu
+# zhihu
 ip-cidr,118.89.204.198/32,reject
